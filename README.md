@@ -1,5 +1,3 @@
-voila --no-browser --template=material --theme=dark --enable_nbextensions=True anaconda3/bin/voila-covid-19-dashboard-master/voila-covid-19-dashboard-master/notebooks/covid_19_dashboard.ipynb
-
 # voila-covid-19-dashboard
 Voila Covid-19 Dashboard
 
